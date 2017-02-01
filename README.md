@@ -1,9 +1,10 @@
 # FlatNatureButtons
-Android Custom View Buttons. Support color changes and elevation
+Android Custom View Buttons.
  
 ![](http://s8.hostingkartinok.com/uploads/images/2017/02/0f0a6b5111aeb9c1fa04be409150d1ce.gif)
 
- 
+Also you can change with elevation
+![](http://s8.hostingkartinok.com/uploads/images/2017/02/d050dd3a2ad3e51f354a27b238094ffa.gif)
 XML example:
 
         <com.example.anton.custombuttons.views.waterButton
