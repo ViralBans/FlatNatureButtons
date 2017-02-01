@@ -51,3 +51,5 @@ How to start animation:
         mybuttonFire.clickAnimation();
       }
     });
+
+Inspired by: https://dribbble.com/shots/1480083-Fun-Buttons
