@@ -1,7 +1,7 @@
 # FlatNatureButtons
 Android Custom View Buttons. Support color changes and elevation
  
-![](http://s8.hostingkartinok.com/uploads/images/2017/02/c7ff741ac89eb3c254d78c1441ae7c23.gif)
+![](http://s8.hostingkartinok.com/uploads/images/2017/02/0f0a6b5111aeb9c1fa04be409150d1ce.gif)
 
  
 XML example:
