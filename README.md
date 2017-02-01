@@ -1,7 +1,8 @@
 # FlatNatureButtons
 Android Custom View Buttons. Support color changes and elevation
 
-XML example
+XML example:
+
         <com.example.anton.custombuttons.views.waterButton
             android:id="@+id/my_custom_button_water"
             android:layout_width="70dp"
