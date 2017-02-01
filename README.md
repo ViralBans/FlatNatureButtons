@@ -30,7 +30,7 @@ XML example
             
 How to start animation:
 
-mybuttonThunder.setOnClickListener(new View.OnClickListener() {
+    mybuttonThunder.setOnClickListener(new View.OnClickListener() {
       @Override public void onClick(View v) {
         mybuttonThunder.clickAnimation();
       }
