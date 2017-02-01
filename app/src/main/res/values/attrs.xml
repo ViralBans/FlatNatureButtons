@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <declare-styleable name="thunderButton">
+        <attr name="thunder_background_color" format="color"></attr>
+    </declare-styleable>
+    <declare-styleable name="waterButton">
+        <attr name="water_background_color" format="color"></attr>
+    </declare-styleable>
+    <declare-styleable name="fireButton">
+        <attr name="fire_background_color" format="color"></attr>
+    </declare-styleable>
+</resources>
